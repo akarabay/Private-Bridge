@@ -32,4 +32,4 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 Bu proje, Meta İşletme İlkeleri (Meta Business Policies) ile tam uyumludur. Kullanıcı verileri üçüncü taraflarla paylaşılmaz ve sadece iletişim oturumu süresince işlenir.
 
 📧 İletişim
-Destek ve bilgi için: support@privatebridge.com
+Destek ve bilgi için: akarabay@outlook.com
