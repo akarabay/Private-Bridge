@@ -27,3 +27,9 @@ pip install fastapi uvicorn sqlite3 requests
 
 # Sistemi başlat
 uvicorn main:app --host 0.0.0.0 --port 8000
+
+🔒 Güvenlik ve Gizlilik
+Bu proje, Meta İşletme İlkeleri (Meta Business Policies) ile tam uyumludur. Kullanıcı verileri üçüncü taraflarla paylaşılmaz ve sadece iletişim oturumu süresince işlenir.
+
+📧 İletişim
+Destek ve bilgi için: support@privatebridge.com
